@@ -1,1 +1,1 @@
-um novo arquivo foi adicionado ao git
+um novo arquivo foi adicionado ao git e também foi modificado
